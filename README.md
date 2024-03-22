@@ -11,6 +11,6 @@
 
 </div>
  <br>
-<p align="center"> <img width="433" height="177" src="https://user-images.githubusercontent.com/104733166/236908488-60f25e53-47a8-43d5-a45a-b9b9dd37900e.gif"/>
+<p align="center"> <img width="433" height="177" src="https://ibb.co/FXqwW5C"/>
 <br>
 <br
