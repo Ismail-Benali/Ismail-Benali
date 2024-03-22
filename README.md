@@ -11,7 +11,7 @@
 
 </div>
  <br>
-<p align="center"> <img width="433" height="177" src="https://github.com/Ismail-Benali/Ismail-Benali/assets/90980178/aab66cc0-e0f3-4e37-b2a4-452a45eeeb03"/>
+<p align="center"> <img src="https://github.com/Ismail-Benali/Ismail-Benali/assets/90980178/aab66cc0-e0f3-4e37-b2a4-452a45eeeb03"/>
  
 <br>
 <br
