@@ -7,7 +7,10 @@
 ![Heroku](https://img.shields.io/badge/heroku-black.svg?style=for-the-badge&logo=heroku&logoColor=green)
 ![PyCharm](https://img.shields.io/badge/pycharm-black?style=for-the-badge&logo=pycharm&logoColor=green&color=black&labelColor=black)
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-black.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
-![Codecademy](https://img.shields.io/badge/Codecademy-black?style=for-the-badge&logo=codecademy&logoColor=green)
-
+<p align="center"> 𝙾𝚂𝙸𝙽𝚃 | 𝚂𝙾𝙲𝙼𝙸𝙽𝚃 | 𝙶𝙴𝙾𝙸𝙽𝚃 | 𝙸𝙼𝙸𝙽𝚃 | 𝙿𝚢𝚝𝚑𝚘𝚗  | 𝙳𝚊𝚛𝚔 𝚆𝚎𝚋 | </p>
 
 </div>
+ <br>
+<p align="center"> <img width="433" height="177" src="https://user-images.githubusercontent.com/104733166/236908488-60f25e53-47a8-43d5-a45a-b9b9dd37900e.gif"/>
+<br>
+<br
