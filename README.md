@@ -7,11 +7,9 @@
 ![Heroku](https://img.shields.io/badge/heroku-black.svg?style=for-the-badge&logo=heroku&logoColor=green)
 ![PyCharm](https://img.shields.io/badge/pycharm-black?style=for-the-badge&logo=pycharm&logoColor=green&color=black&labelColor=black)
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-black.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
-<p align="center"> 𝙾𝚂𝙸𝙽𝚃 | 𝚂𝙾𝙲𝙼𝙸𝙽𝚃 | 𝙶𝙴𝙾𝙸𝙽𝚃 | 𝙸𝙼𝙸𝙽𝚃 | 𝙿𝚢𝚝𝚑𝚘𝚗  | 𝙳𝚊𝚛𝚔 𝚆𝚎𝚋 | </p>
-
 </div>
  <br>
-<p align="center"> <img src="https://github.com/Ismail-Benali/Ismail-Benali/assets/90980178/aab66cc0-e0f3-4e37-b2a4-452a45eeeb03"/>
- 
+<p align="center"> <img src="https://github.com/Ismail-Benali/Ismail-Benali/assets/90980178/aab66cc0-e0f3-4e37-b2a4-452a45eeeb03"/> 
 <br>
 <br
+<p align="center"> 𝙾𝚂𝙸𝙽𝚃 | 𝚂𝙾𝙲𝙼𝙸𝙽𝚃 | 𝙶𝙴𝙾𝙸𝙽𝚃 | 𝙸𝙼𝙸𝙽𝚃 | 𝙿𝚢𝚝𝚑𝚘𝚗  | 𝙳𝚊𝚛𝚔 𝚆𝚎𝚋 | </p>
