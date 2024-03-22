@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**Ismail-Benali/Ismail-Benali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+![GitHub](https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=green)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-black.svg?style=for-the-badge&logo=githubactions&logoColor=green)
+![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=green)
+![Heroku](https://img.shields.io/badge/heroku-black.svg?style=for-the-badge&logo=heroku&logoColor=green)
+![PyCharm](https://img.shields.io/badge/pycharm-black?style=for-the-badge&logo=pycharm&logoColor=green&color=black&labelColor=black)
+![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-black.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
+![Codecademy](https://img.shields.io/badge/Codecademy-black?style=for-the-badge&logo=codecademy&logoColor=green)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+</div>
