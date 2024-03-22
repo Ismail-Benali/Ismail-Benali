@@ -11,7 +11,7 @@
 
 </div>
  <br>
-<p align="center"> <img width="433" height="177" src="https://i.ibb.co/7QNWznL/norse-banks-cyberthreats.gif"/>
+<p align="center"> <img width="433" height="177" src=""/>
  
 <br>
 <br
